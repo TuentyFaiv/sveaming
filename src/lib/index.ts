@@ -1,1 +1,1 @@
-// Reexport your entry components here
+export { default as Player } from './Player/Player.svelte';
